@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Carla Fabian
+N:Fabian;Carla ;;;
+item1.TEL:0917 302 9440
+item1.X-ABLabel:
+item2.ADR:;;Ilang-ilang St. Ligas III Bacoor Cavite;Bacoor;Cavite;;PH;Ilang
+ -ilang St. Ligas III Bacoor Cavite\nBacoor\nCavite\nPH
+item2.X-ABLabel:
+item3.ORG:3.16 Resort and Venue
+item3.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/ABsqplsrTma-3CDWtGPhLoIJsE
+ v4tf2IJxFsk9nXkECU2l_v2ZeeJFT-
+CATEGORIES:myContacts
+END:VCARD
