@@ -1,7 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Raymond Murillo
-N:Murillo;Raymond;;;
+N:Murillo;Raymond;;
+item1.TEL:+63 916 795 6403
 item1.ORG:Konekt
 item1.X-ABLabel:
 item2.TITLE:Co-Founder
